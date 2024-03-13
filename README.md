@@ -5,3 +5,5 @@ Prova de commit desde la meva branca.
 ## Es peten els readmes amb Git?
 Sí
 No
+
+# QUe tal estem
