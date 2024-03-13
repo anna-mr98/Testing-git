@@ -1,3 +1,3 @@
 program hola
-  print*, 'hola'
+  print*, 'hola que tal'
 end program hola
